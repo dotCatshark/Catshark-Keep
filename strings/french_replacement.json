@@ -2,11 +2,11 @@
     "full": {
         "no": "non",
         "yes": "oui",
-        "I'm": "j'",
+        "I'm": "Eye'm",
         "a": "un",
         "and": "et",
-        "the": "l'",
-        "I": "j'",
+        "the": "zeu",
+        "I": "Eye",
         "with": "weeth",
         "of": "de",
         "bye": ["adieu", "au revoir"],
@@ -18,10 +18,21 @@
         "my": "mon",
         "thanks": "merci",
         "thank you": "merci",
-        "hello": ["'allo", "bonjour", "salut"],
+        "hello": ["'ello", "bonjour", "salut"],
         "wine": "vin",
         "what's": "quel est",
-        "who's": "qui est"
+        "who's": "qui est",
+		"bread": "baguette",
+		"pie": ["tarte","quiche"],
+		"shit": "merde",
+		"god": "dieu",
+		"holy shit": "sacrebleu!",
+		"whore": ["putain", "pute"],
+		"stupid": "idiot",
+		"bog": ["marais", "bayou"],
+		"ball": "orbe",
+		"balls": "orbes",
+		"that": "zat"
     },
     "start": {
 
@@ -31,6 +42,7 @@
     },
     "syllable": {
         "shi": "shee",
-        "thi": "thee"
+        "thi": "thee",
+		"th": "z"
     }
 }

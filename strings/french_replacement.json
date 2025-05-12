@@ -32,8 +32,9 @@
         "bog": ["marais", "bayou"],
         "ball": "orbe",
         "balls": "orbes",
-        "that": "zat"
-    },
+        "that": "zat",
+        "this": "zis"
+    }
     "start": {
 
     },

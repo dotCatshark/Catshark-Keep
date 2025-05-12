@@ -22,17 +22,17 @@
         "wine": "vin",
         "what's": "quel est",
         "who's": "qui est",
-		"bread": "baguette",
-		"pie": ["tarte","quiche"],
-		"shit": "merde",
-		"god": "dieu",
-		"holy shit": "sacrebleu!",
-		"whore": ["putain", "pute"],
-		"stupid": "idiot",
-		"bog": ["marais", "bayou"],
-		"ball": "orbe",
-		"balls": "orbes",
-		"that": "zat"
+        "bread": "baguette",
+        "pie": ["tarte","quiche"],
+        "shit": "merde",
+        "god": "dieu",
+        "holy shit": "sacrebleu!",
+        "whore": ["putain", "pute"],
+        "stupid": "idiot",
+        "bog": ["marais", "bayou"],
+        "ball": "orbe",
+        "balls": "orbes",
+        "that": "zat"
     },
     "start": {
 
@@ -43,6 +43,6 @@
     "syllable": {
         "shi": "shee",
         "thi": "thee",
-		"th": "z"
+        "th": "z"
     }
 }
